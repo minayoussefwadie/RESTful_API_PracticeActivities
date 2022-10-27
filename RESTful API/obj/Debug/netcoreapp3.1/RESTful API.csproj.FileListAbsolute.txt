@@ -1,0 +1,68 @@
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\appsettings.json
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\RESTful API.exe
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\RESTful API.deps.json
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\RESTful API.runtimeconfig.json
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\RESTful API.runtimeconfig.dev.json
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\RESTful API.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\RESTful API.pdb
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.GeneratedMSBuildEditorConfig.editorconfig
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.AssemblyInfoInputs.cache
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.AssemblyInfo.cs
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.csproj.CoreCompileInputs.cache
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.MvcApplicationPartsAssemblyInfo.cache
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\staticwebassets\RESTful API.StaticWebAssets.Manifest.cache
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\staticwebassets\RESTful API.StaticWebAssets.xml
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\scopedcss\bundle\RESTful API.styles.css
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.RazorTargetAssemblyInfo.cache
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.pdb
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.genruntimeconfig.cache
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.csproj.AssemblyReference.cache
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\AutoMapper.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\pracitce activites\RESTful API\RESTful API APP\RESTful API\obj\Debug\netcoreapp3.1\RESTful API.MvcApplicationPartsAssemblyInfo.cs
